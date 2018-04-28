@@ -1,0 +1,7 @@
+1.2 (5/15/16):
+   * Changed "/aai decline" to have 3 settings: all, others, none - others will auto-decline anyone not allowed.
+
+1.1 (9/18/15):
+   * Accepting from guild members and friends is now optional.
+   * The decline option now saves instead of being temporary.
+   * Players can be added to a deny list.

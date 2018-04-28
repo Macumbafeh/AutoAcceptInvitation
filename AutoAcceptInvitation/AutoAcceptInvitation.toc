@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: AutoAcceptInvitation
+## Author: Pyralis
+## Version: 1.2
+## Notes: Automatically accept or decline group invitations.
+## SavedVariablesPerCharacter: AutoAcceptInvitationSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+AutoAcceptInvitation.lua
